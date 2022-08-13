@@ -1,4 +1,4 @@
-# Book Search Eninge
+# Book Search Engine
 
 A simple Book search engine where users can login and save their own personalized reading list.
 
